@@ -1,2 +1,2 @@
 # NFT
-Autor: Daniel Quintero
+Autor: Daniel
