@@ -1,4 +1,5 @@
 # NFT
+
 Author: Daniel Quintero
 Start Date: 14 April 2021
 
@@ -24,12 +25,13 @@ _Non Fungible Token_
 
 1. Trust Wallet - [Link](https://trustwallet.com/es/collectibles-wallet)
 2. MetaMask - [Link](https://metamask.io/)
-3. - Pending -
+3. Bitski - [Link](https://www.bitski.com/)
 
 ## Testing
 
 ### Create a wallet
 
+1. Create a Wallet: MetaMask Or trustwallet
 
 
 ### Create a NFT
