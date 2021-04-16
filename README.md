@@ -31,7 +31,7 @@ _Non Fungible Token_
 
 ### Create a wallet
 
-1. Create a Wallet: MetaMask Or trustwallet
+1. Create a Wallet: MetaMask or Trustwallet
 
 
 ### Create a NFT
