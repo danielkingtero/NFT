@@ -23,9 +23,9 @@ _Non Fungible Token_
 3. Nifty Gateway.com - [Link](https://niftygateway.com/)
 4. Crypto Kitties - [Link](https://www.cryptokitties.co/) :smiley_cat:
 5. Crypto Punks - [Link](https://www.larvalabs.com/cryptopunks)
-6. [Link](https://mintbase.io/)
-7. [Link](https://app.cargo.build/marketplace?filter=%7B%7D)
-8. [Link](https://mintable.app/)
+6. Mintbase - [Link](https://mintbase.io/)
+7. Cargo - [Link](https://app.cargo.build/marketplace?filter=%7B%7D)
+8. Mintable - [Link](https://mintable.app/)
 
 ### Nft's Wallet :money_with_wings:
 
@@ -39,8 +39,9 @@ _Non Fungible Token_
 
 1. Create a Wallet: MetaMask or Trustwallet
 
-
 ### Create a NFT
+
+1. Gas Fee
 
 ### Create a Project OpenSea
 
