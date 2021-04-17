@@ -14,12 +14,18 @@ _Non Fungible Token_
 1. The Verge - [Link](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
 2. Platzi - [Link](https://www.youtube.com/watch?v=noTJr4ZWIZQ)
 3. NFT  Biblie - [Link](https://opensea.io/blog/guides/non-fungible-tokens/)
+4. NFT Tokens para Dummies - [Link](https://www.youtube.com/watch?v=vluFUSMMHu4)
 
 ### Platform's :bomb:
 
 1. Opensea - [Link](https://opensea.io/)
 2. Rarible - [Link](https://rarible.com/)
 3. Nifty Gateway.com - [Link](https://niftygateway.com/)
+4. Crypto Kitties - [Link](https://www.cryptokitties.co/) :smiley_cat:
+5. Crypto Punks - [Link](https://www.larvalabs.com/cryptopunks)
+6. [Link](https://mintbase.io/)
+7. [Link](https://app.cargo.build/marketplace?filter=%7B%7D)
+8. [Link](https://mintable.app/)
 
 ### Nft's Wallet :money_with_wings:
 
