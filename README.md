@@ -46,3 +46,7 @@ _Non Fungible Token_
 ### Create a Project OpenSea
 
 1. Project: OpenSea [Link](https://github.com/ProjectOpenSea/opensea-creatures)
+
+### Gaming
+
+1. Sandbox: [Link](https://www.sandbox.game/en/)
