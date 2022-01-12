@@ -50,5 +50,6 @@ _Non Fungible Token_
 ### Gaming
 
 1. Sandbox: [Link](https://www.sandbox.game/en/)
+2. Axie Infinity: [Link](https://axieinfinity.com/)
 
 ### Test
