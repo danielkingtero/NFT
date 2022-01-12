@@ -15,6 +15,7 @@ _Non Fungible Token_
 2. Platzi - [Link](https://www.youtube.com/watch?v=noTJr4ZWIZQ)
 3. NFT  Biblie - [Link](https://opensea.io/blog/guides/non-fungible-tokens/)
 4. NFT Tokens para Dummies - [Link](https://www.youtube.com/watch?v=vluFUSMMHu4)
+5. ERC-721 - [Link](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/)
 
 ### Platform's :bomb:
 
@@ -26,6 +27,7 @@ _Non Fungible Token_
 6. Mintbase - [Link](https://mintbase.io/)
 7. Cargo - [Link](https://app.cargo.build/marketplace?filter=%7B%7D)
 8. Mintable - [Link](https://mintable.app/)
+9. Binance [Link](https://www.binance.com/en/nft/home) 
 
 ### Nft's Wallet :money_with_wings:
 
