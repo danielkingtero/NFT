@@ -27,7 +27,7 @@ _Non Fungible Token_
 6. Mintbase - [Link](https://mintbase.io/)
 7. Cargo - [Link](https://app.cargo.build/marketplace?filter=%7B%7D)
 8. Mintable - [Link](https://mintable.app/)
-9. Binance [Link](https://www.binance.com/en/nft/home) 
+9. Binance - [Link](https://www.binance.com/en/nft/home) 
 
 ### Nft's Wallet :money_with_wings:
 
